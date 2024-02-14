@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-0lympica/",
+    "build": "vite build --base=/html_css_103_OleksiiShcherba/",
     "preview": "vite preview"
   },
   "devDependencies": {
